@@ -22,6 +22,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+## Experience
+
+**Company Name** (start_date to end_date)    
+*Your job title*  
+**Company Name** (start_date to end_date)   
+*Your job title*  
+
 ## Education
 
 #### Makers Academy (start_date to end_date)
@@ -42,10 +49,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Other cool stuff
 
 #### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
