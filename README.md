@@ -72,15 +72,15 @@ Led the team responsible for live support and enhancements for Sainsbury's Reple
 
 *Programmer Analyst/Team Lead/System Test Lead for Royal Bank of Scotland Group (Feb 2007 to Jun 2008)*
 
-Led the team developing and system testing the backend functionality for the New Loan Product and Business Accounts on the multi-tiered RBS Account Opening System in an onsite-offshore model. Created technical specifications, reviewed code, managed stakeholders and mentored and appraised team members.  
+Led the team developing and system testing the backend functionality for the New Loan Product and Business Accounts on the multi-tiered RBS Account Opening System in an onsite-offshore team model. Created technical specifications, reviewed code, managed stakeholders and mentored and appraised team members.  
 
 *Programmer Analyst/Team Lead for Sainsbury's Supermarkets Ltd (Jul 2004 to Jan 2007)*
 
-Led the teams doing on-call application support and enhancements Sainsbury's Supply Chain and HR applications and was also the escalation point. Did requirement analysis, estimation, project management and technical design for multiple system change requests. Mentored and appraised team members. Also participated in RFP responses for new opportunities in the Infosys Retail practice.
+Led the teams doing on-call application support and enhancements for Sainsbury's Supply Chain and HR applications and was also the escalation point. Did requirement analysis, estimation, project management and technical design for multiple system change requests. Mentored and appraised team members. Also participated in RFP responses for new opportunities in the Infosys Retail practice.
 
 *Software Engineer for Sainsbury's Supermarkets Ltd (Sep 2002 to Jun 2004)*
 
-SLA driven application support and enhancements for Sainsburyâ€™s HR systems. Created component designs, code, and performed unit testing and UAT support for system change requests. Did root-cause analysis for live failures and implemented bug fixes.
+SLA driven application support and enhancements for Sainsbury's HR systems. Created component designs, code, and performed unit testing and UAT support for system change requests. Did root-cause analysis for live failures and implemented bug fixes.
 
 
 ## Education
