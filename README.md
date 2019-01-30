@@ -47,12 +47,15 @@ Some of the decisions amoung others were about -
 **John Lewis Partnership** (Jan 2011 to present)    
 
 *Systems Developer (Dec 2018 to present)*
+
 On a journey to acquire the skills required to become a good Systems Developer, including TDD, BDD, Pair Programing and new technologies
 
 *Solution Designer (Feb 2016 to Nov 2018)*
+
 End to end solution design for a complex landscape of IT systems of more than 20+ systems with different technologies including legacy and cutting edge.
 
 *Technical Business Analyst (Jan 2011 to Jan 2016)*  
+
 Analysis of a range of change requests in the area of store customer ordering and gift lists. Proposing resolutions for live issues with systems related to systems in these areas.
 
 **Siemens IT Solutions and Services Ltd** (Jan 2010 to Dec 2010)   
@@ -64,15 +67,19 @@ Trained on the Thaler Banking platform and coordinated developments/new releases
 **Infosys Technologies Limited** (Sep 2002 to Dec 2009)
 
 *Technical Lead for Sainsbury's Supermarkets Ltd (Jul 2008 to Dec Dec 2009)*
+
 Led the team responsible for live support and enhancements for Sainsbury's Replenishment, Supply Chain and Logistics systems. Transitioned over new set of systems into the team to achieve economies of scale and helped embed metrics based continuous improvement philosophy in the team. Mentored and appraised team members. Contributed to RFP responses.
 
 *Programmer Analyst/Team Lead/System Test Lead for Royal Bank of Scotland Group (Feb 2007 to Jun 2008)*
+
 Led the team developing and system testing the backend functionality for the New Loan Product and Business Accounts on the multi-tiered RBS Account Opening System in an onsite-offshore model. Created technical specifications, reviewed code, managed stakeholders and mentored and appraised team members.  
 
 *Programmer Analyst/Team Lead for Sainsbury's Supermarkets Ltd (Jul 2004 to Jan 2007)*
+
 Led the teams doing on-call application support and enhancements Sainsbury's Supply Chain and HR applications and was also the escalation point. Did requirement analysis, estimation, project management and technical design for multiple system change requests. Mentored and appraised team members. Also participated in RFP responses for new opportunities in the Infosys Retail practice.
 
 *Software Engineer for Sainsbury's Supermarkets Ltd (Sep 2002 to Jun 2004)*
+
 SLA driven application support and enhancements for Sainsburyâ€™s HR systems. Created component designs, code, and performed unit testing and UAT support for system change requests. Did root-cause analysis for live failures and implemented bug fixes.
 
 
