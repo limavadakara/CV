@@ -1,5 +1,5 @@
 ## Lima Vadakara
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) 
+[Skills](#skills) | [Experience](#experience) | [Education](#education)
 
 TBC
 
