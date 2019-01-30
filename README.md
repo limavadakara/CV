@@ -1,5 +1,5 @@
 ## Lima Vadakara
-[Skills](#skills) | [Experience](#experience) | [Education](#education)
+[Skills](#skills) | [Build Projects](#build-projects) |[Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 TBC
 
@@ -41,6 +41,10 @@ Some of the decisions amoung others were about -
 - How technical debt will be owned and addressed 
 - How to ensure supportability of the solution for OPS amoung others.
 
+
+## Build Projects
+
+TBC
 
 ## Experience
 
@@ -96,3 +100,8 @@ TBC
 #### Mahatma Gandhi University, India (Mar 1996 to May 2000)
 
 - Bachelor of Technology in Electrical and Electronics Engineering (first class with distinction)
+
+
+## Interests
+- Reading; I really enjoy historical fiction
+- Religion; especially Christianity
