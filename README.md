@@ -105,5 +105,5 @@ TBC
 ## Interests
 - Reading; I really enjoy historical fiction
 - Religion; especially Christianity
-- Solving puzzles
-- Watching period dramas
+- Puzzles
+- Period dramas
