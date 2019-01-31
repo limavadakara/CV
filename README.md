@@ -33,7 +33,7 @@ While working on the 'Omni Channel Customer Ordering' at John Lewis, I focussed 
 
 This role also involved making clear and quick technical decisions below the high level architectural recommendations when the technical teams had questions/challenges/blocks/constraints. 
 Some of the decisions amoung others were about -
-- Type of services to be built/used(Microservices Vs enterprise style SOA services)
+- Type of services to be built/used(Microservices Vs enterprise style SOA services hosted on the Enterprise Service Bus)
 - Customising a package Vs using it vanilla and changing the process or shifting the responsibility for a functionality to another system 
 - Data that specific systems should hold so that the end-to-end works, 
 - Which system masters what data and how can it be retrieved when required, 
@@ -105,3 +105,5 @@ TBC
 ## Interests
 - Reading; I really enjoy historical fiction
 - Religion; especially Christianity
+- Solving puzzles
+- Watching period dramas
