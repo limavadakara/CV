@@ -1,7 +1,7 @@
 ## Lima Vadakara
 [Skills](#skills) | [Build Projects](#build-projects) |[Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-TBC
+TBC.......
 
 ## Skills
 
@@ -44,7 +44,7 @@ Some of the decisions amoung others were about -
 
 ## Build Projects
 
-TBC
+TBC..........
 
 ## Experience
 
@@ -72,15 +72,15 @@ Trained on the Thaler Banking platform and coordinated developments/new releases
 
 *Technical Lead for **Sainsbury's Supermarkets Ltd** (Jul 2008 to Dec Dec 2009)*
 
-Led the team responsible for live support and enhancements for Sainsbury's Replenishment, Supply Chain and Logistics systems. Transitioned over new set of systems into the team to achieve economies of scale and helped embed metrics based continuous improvement philosophy in the team. Mentored and appraised team members. Contributed to RFP responses.
+Led the team responsible for live support and enhancements for Sainsbury's Replenishment, Supply Chain and Logistics systems. Transitioned over new set of systems into the team to achieve economies of scale and helped embed metrics based continuous improvement philosophy in the team. Mentored team members. Contributed to RFP responses.
 
 *Programmer Analyst/Team Lead/System Test Lead for **Royal Bank of Scotland Group** (Feb 2007 to Jun 2008)*
 
-Led the team developing and system testing the backend functionality for the New Loan Product and Business Accounts on the multi-tiered RBS Account Opening System in an onsite-offshore team model. Created technical specifications, reviewed code, managed stakeholders and mentored and appraised team members.  
+Led the team developing and system testing the backend functionality for the New Loan Product and Business Accounts on the multi-tiered RBS Account Opening System in an onsite-offshore team model. Created technical specifications, reviewed code, managed stakeholders and mentored team members.  
 
 *Programmer Analyst/Team Lead for **Sainsbury's Supermarkets Ltd** (Jul 2004 to Jan 2007)*
 
-Led the teams doing on-call application support and enhancements for Sainsbury's Supply Chain and HR applications and was also the escalation point. Did requirement analysis, estimation, project management and technical design for multiple system change requests. Mentored and appraised team members. Also participated in RFP responses for new opportunities in the Infosys Retail practice.
+Led the teams doing on-call application support and enhancements for Sainsbury's Supply Chain and HR applications and was also the escalation point. Did requirement analysis, estimation, project management and technical design for multiple system change requests. Mentored team members. Also participated in RFP responses for new opportunities in the Infosys Retail practice.
 
 *Software Engineer for **Sainsbury's Supermarkets Ltd** (Sep 2002 to Jun 2004)*
 
@@ -91,7 +91,7 @@ SLA driven application support and enhancements for Sainsbury's HR systems. Crea
 
 #### Makers Academy (Jan 2019 Apr 2019)
 
-TBC
+TBC.......
 
 #### Indian Institute of Technology and Management, Kerala, India (Mar 2001 to Sep 2002)
 
